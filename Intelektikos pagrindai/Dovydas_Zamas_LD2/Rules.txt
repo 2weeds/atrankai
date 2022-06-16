@@ -1,0 +1,11 @@
+Jeigu debesuotumo lygis arba oro drėgmės lygis yra mažas ir oras yra karštas tai mašina galės važiuoti greitai
+Jeigu debesuotumo lygis arba oro drėgmės lygis yra mažas ir oras yra šiltas tai  mašina galės važiuoti greitai
+Jeigu debesuotumo lygis arba oro drėgmės lygis yra mažas ir oras yra šaltas tai mašina galės važiuoti vidutiniškai
+
+Jeigu debesuotumo arba drėgmės lygis yra vidutinis ir oras yra karštas tai mašina galės važiuoti greitai
+Jeigu debesuotumo lygis arba drėmės lygis yra vidutinis ir oras yra šiltas tai mašina galės važiuoti vidutiniškai
+Jeigu debesuotumo lygis arba oro drėmės lygis yra vidutinis ir oras yra šaltas tai mašina galės važiuoti lėtai
+
+Jeigu debesuotumo lygis arba oro drėgmės lygis yra aukštas ir oras yra karštas tai mašina galės važiuoti lėtai
+Jeigu debesuotumo lygis arba oro drėgmės lygis yra aukštas ir oras yra šiltas tai mašina galės važiuoti lėtai
+Jeigu debesuotumo lygis arba oro drėgmės lygis yra aukštas ir oras yra šaltas tai mašina galės važiuoti lėtai
